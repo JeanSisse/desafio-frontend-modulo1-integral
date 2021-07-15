@@ -319,6 +319,13 @@ li{
 	opacity: 0.5;
 }
 
+.align-items-right{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	justify-content: right;
+}
+
 /*CLASSES UTILITÁRIAS GLOBAIS*/
 
 .font-ibarra-real{
@@ -383,11 +390,3 @@ li{
 .color-white{
 	color: #FFFFFF;
 }
-/*BOTÕES PRIMÁRIOS*/
-
-.btn-primary{
-	background: #203A4C;
-	max-width: 210px;
-}
-
-/*BOTÕES SECUNDÁRIOS*/
