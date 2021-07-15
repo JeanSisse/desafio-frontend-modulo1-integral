@@ -1,0 +1,187 @@
+/*ELEMENTOS HTML*/
+
+/*CLASSES*/
+
+.home-hero{
+	background: center / contain no-repeat url(../../assets/home/image-homepage-hero.jpg);
+	background-size: cover;
+
+	margin-top: 56px;
+
+	padding-top: 243px;
+	padding-right: 490px;
+}
+
+.presentation{
+	background: #FAFAFA;
+	max-width: 550px;
+	padding: 56px 28px 0px 0px;
+}
+
+.presentation__p{
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+
+	line-height: 50px;
+	letter-spacing: -0.446429px;
+
+	margin-left: 56px;
+	margin-bottom: 53px;
+}
+
+.presentation__btn{
+	display: flex;
+	
+	flex-flow: row wrap;
+
+	justify-content: space-between;
+	
+	width: 200px;
+}
+
+.presentation__btn:hover{
+	background: #5FB4A2;
+}
+
+.arrow-down{
+	flex-grow: 0;
+
+	mix-blend-mode: normal;
+	
+	opacity: 0.2;
+	
+	padding: 18px 16px;
+	background: ;
+}
+
+.goto-about-me{
+	align-items: center;
+	
+	display: flex;
+	
+	flex-grow: 2;
+
+	justify-content: center;
+}
+
+/*.goto-about-me__span{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 14px;
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}*/
+
+.about-me{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+.about-me__photo{
+	max-width: 540px;
+}
+
+.goto__portfolio{
+	min-width: 204px;
+	padding: 17px 28px;
+}
+
+.about-me__description{
+	margin-left: 140px;
+	max-width: 430px;
+}
+
+/*
+.home-hr{
+	background: #33323D;
+	mix-blend-mode: normal;
+	opacity: 0.15;
+}
+*/
+
+/*.about-me__title{
+	margin-top: 51px;
+	margin-bottom: 28px;
+}
+
+.about-me__title, .interest__p{
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+
+	line-height: 42px;
+	letter-spacing: -0.357143px;
+}
+*/
+.about-me__resume{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	margin-top: 28px;
+	margin-bottom: 46px;
+}
+
+
+.about-me__p{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+
+	line-height: 30px;
+	
+	mix-blend-mode: normal;
+	margin-bottom: 24px;
+
+	opacity: 0.8;
+
+	text-align: left;
+}
+
+/*
+.about-me__portfolio, .interest__btn{
+	border: 1px solid #33323D;
+}*/
+
+/*.interest{
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 150px;
+}
+
+.interest__p{
+	max-width: 370px;
+}
+
+.interest__btn{
+	min-width: 170px;
+	padding: 17px 50px;
+}
+
+.interest__btn:hover{
+	color: #FAFAFA;
+	background: #33323D;
+}*/
+
+/*CLASSES UTILITÁRIOS*/
+
+/*.btn-description-style{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	
+	line-height: 14px;
+	letter-spacing: 2px;
+
+	text-transform: uppercase;
+	text-align: center;
+}*/

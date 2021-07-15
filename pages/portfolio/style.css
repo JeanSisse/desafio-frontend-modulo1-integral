@@ -1,0 +1,73 @@
+/*CLASSES*/
+.about-me-portfolio{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	height: 500px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+
+
+}
+
+.img-container{
+	width: 540px;
+	height: 500px;
+
+	position: relative;
+}
+
+.img-container > img{
+	width: 100%;
+    height: 100%; 
+    object-fit: contain;
+}
+
+.about-me__rigth-description, .about-me__left-description{
+	height: 500px;
+	width: 475px;
+}
+
+.about-me__rigth-description{
+	margin-left: 125px;
+}
+
+.about-me__left-description{
+	margin-right: 125px;
+}
+
+.about-me__portfolio-resume{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+
+	/*margin-bottom: 100px;*/
+}
+
+.about-me__msg{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+
+	line-height: 30px;
+	
+	mix-blend-mode: normal;
+
+	opacity: 0.8;
+
+	text-align: left;
+}
+
+.goto__project{
+	min-width: 175px;
+	margin-top: 54px;
+	margin-bottom: 130px;
+	padding: 17px 38px;
+}
+
+.about-me-left__description{
+	margin-right: 140px;
+	max-width: 430px;
+}

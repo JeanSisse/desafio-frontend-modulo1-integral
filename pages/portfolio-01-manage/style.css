@@ -1,0 +1,149 @@
+/*CLASSES*/
+
+/*.hero{
+	margin-top: 94px;
+}
+
+.hero__image{
+	max-width: 1110px;
+	max-height: 500px;
+
+	margin-bottom: 115px;
+}
+
+.project-description{
+	display: flex;
+	justify-content: space-between;
+}
+
+.description{
+	display: flex;
+	flex-direction: column;
+
+	padding-right: 125px;
+	width: 475px;
+}
+
+.project-presentation{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	width: 635px;
+}
+
+.description__title, .project-previo-titles{
+	font-style: normal;
+	line-height: 42px;
+}
+
+.description__title{
+	font-weight: bold;
+	font-size: 40px;
+
+	letter-spacing: -0.357143px;
+
+	margin-top: 48px;
+	margin-bottom: 29px;
+}
+
+.project-previo-titles{
+	font-weight: normal;
+	font-size: 32px;
+
+	letter-spacing: -0.285714px;
+
+	margin-bottom: 28px;
+}
+
+.description__p, .description span{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+
+	line-height: 30px;
+}
+
+.description span{
+	color: #5FB4A2;
+	margin-bottom: 16px;
+}
+
+.btn-visitar{
+	width: 178px;
+	padding: 17px 60px;
+
+	margin-top: 32px;
+	margin-bottom: 48px;
+}
+
+.description__p{
+	mix-blend-mode: normal;
+	margin-bottom: 53px;
+
+	opacity: 0.8;
+}
+
+.figure{
+	height: 400px;
+	margin-bottom: 32px;
+	width: 635px;
+}
+
+.figure > img{
+	width: 100%;
+    height: 100%; 
+    object-fit: contain;
+}
+
+.nav-between-projects{
+	margin-top: 64px;
+	margin-bottom: 115px;
+}
+
+.container-arrow-direction{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 32px;
+	margin-bottom: 32px;
+}
+
+.item-flex{
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	width: 162px;
+}
+
+.arrow-icon{
+
+}
+
+.arrow-to-project{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.project-name{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	
+	line-height: 36px;
+	letter-spacing: -0.285714px;
+}
+
+.arrow-to-project span{
+	color: #33323D;
+
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	
+	line-height: 30px;
+
+	mix-blend-mode: normal;
+
+	opacity: 0.5;
+}*/
