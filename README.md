@@ -4,17 +4,6 @@
 
 O objetivo deste exercício é replicar o website encontrado no arquivo ['Desafio front academy 1.fig'.](https://www.figma.com/file/iBj2vuj7OpdFF9RxG4FLfG/Desafio-front-academy-1)
 
-## Páginas obrigatórias
- - [Home](#Home)
-
-## Páginas opcionais
- - [Portfolio](#Portfolio)
- - [Portfolio - 01 - Manage](#Portfolio---01---Manage)
- - [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
- - [Portfolio - 03 - Insure](#Portfolio---03---Insure)
- - [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
- - [Contato](#Contato)
-
 ### Home
 
 Seções
@@ -137,5 +126,7 @@ Seções
 - Contato Section ![](https://i.imgur.com/VvO2m7w.png)
 
 - Footer ![](https://i.imgur.com/P06m37L.png)
+
+Para testar o projeto em um navegador, basta baixar o projeto como zip ou clonar o repositório para sua máquina local, em seguida entre na pasta do projeto > pages > home e dê duplo click ou click com botão direito e escolher opção abrir em um navegador no arquivo index.html.
 
 ###### tags: `front-end` `HTML` `CSS` `desafio`
